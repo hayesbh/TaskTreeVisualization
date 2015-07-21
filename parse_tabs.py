@@ -165,7 +165,7 @@ def pop_stack_parent(spaces_in_current_row):
 
 
 def run():
-	crs = open("HTN_text.txt", "r")
+	crs = open("sampleText.txt", "r")
 	rows = crs.readlines()
 	row_at = 0
 
